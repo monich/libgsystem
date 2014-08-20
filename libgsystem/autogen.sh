@@ -12,7 +12,7 @@ if test -z $AUTORECONF; then
         exit 1
 fi
 
-set -e
+#set -e
 
 mkdir -p m4
 
